@@ -12,6 +12,7 @@ class Drink {
   final String img;
   final List<dynamic> codes;
   final String code;
+  final String ingredients;
   final String preparation;
 
   const Drink({
@@ -22,6 +23,7 @@ class Drink {
     @required this.img,
     @required this.codes,
     @required this.code,
+    @required this.ingredients,
     @required this.preparation,
   });
 
@@ -33,8 +35,8 @@ class Drink {
     category: json['category'],
     story: json['story'],
     doses: json['doses'],
+    ingredients: json['ingredients'],
     preparation: json['preparation'],
-
   );
 
   @override
@@ -46,11 +48,12 @@ class Drink {
           category == other.category &&
           story == other.story &&
           doses == other.doses &&
+          ingredients == other.ingredients &&
           preparation == other.preparation &&
           img == other.img &&
           code == other.code &&
           codes == other.codes;
 
   @override
-  int get hashCode => name.hashCode ^ preparation.hashCode ^ category.hashCode ^ story.hashCode ^ doses.hashCode ^ img.hashCode ^ codes.hashCode ^ code.hashCode;
+  int get hashCode => name.hashCode ^ preparation.hashCode ^ category.hashCode ^ ingredients.hashCode ^ story.hashCode ^ doses.hashCode ^ img.hashCode ^ codes.hashCode ^ code.hashCode;
 }

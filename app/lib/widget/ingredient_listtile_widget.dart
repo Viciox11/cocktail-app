@@ -18,25 +18,43 @@ class IngredientListTileWidget extends StatelessWidget {
     final selectedColor = Theme.of(context).primaryColor;
     final style = isSelected
         ? TextStyle(
-      fontSize: 18,
-      color: selectedColor,
-      fontWeight: FontWeight.bold,
-    )
+            fontSize: 18,
+            color: selectedColor,
+            fontWeight: FontWeight.bold,
+          )
         : TextStyle(fontSize: 18);
 
-    return ListTile(
+    return GestureDetector(
       onTap: () => onSelectedIngredient(ingredient),
-      leading: Image.asset(
-        'assets/images/1.jpg',
-        height: 40,
-        width: 40,
-        fit: BoxFit.cover
+      child: Column(
+        children: <Widget>[
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceAround,
+            children: [
+              Expanded(
+                child: Column(
+                  children: <Widget>[
+                    SizedBox(height: 2),
+                    Image.asset('assets/images/1.jpg',
+                        height: 120, width: 80, fit: BoxFit.cover),
+                    ListTile(
+                      onTap: () => onSelectedIngredient(ingredient),
+                      //leading:
+                      title: Text(
+                        ingredient.name,
+                        style: style,
+                      ),
+                      trailing: isSelected
+                          ? Icon(Icons.check, color: style.color)
+                          : Icon(Icons.add),
+                    )
+                  ],
+                ),
+              )
+            ],
+          ),
+        ],
       ),
-      title: Text(
-        ingredient.name,
-        style: style,
-      ),
-      trailing: isSelected ? Icon(Icons.check, color: selectedColor, size: 26) : null,
     );
   }
 }

@@ -6,13 +6,18 @@ class DrinkDetailPage extends StatelessWidget {
 
   const DrinkDetailPage({Key key, @required this.drink}) : super(key: key);
 
+
   @override
   Widget build(BuildContext context) {
+    List<String> doses = [];
+    doses = drink.doses.split(",");
+
     return Container(
       constraints: BoxConstraints.expand(),
       decoration: BoxDecoration(
           image: DecorationImage(
-              image: AssetImage("assets/images/background.png"), fit: BoxFit.cover)),
+              image: AssetImage("assets/images/background.png"),
+              fit: BoxFit.cover)),
       child: Scaffold(
         backgroundColor: Colors.transparent,
         appBar: AppBar(
@@ -21,81 +26,148 @@ class DrinkDetailPage extends StatelessWidget {
           elevation: 0.0,
         ),
         body: Padding(
-          padding: EdgeInsets.all(24),
+          padding: EdgeInsets.all(16.0),
           child: SingleChildScrollView(
-            child: Center(
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: <Widget>[
-                  Text(
-                    "${drink.name}",
-                    style: TextStyle(
-                      fontSize: 22,
-                      color: Colors.black,
-                    ),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: <Widget>[
+                Text(
+                  "${drink.name}",
+                  style: TextStyle(
+                    fontSize: 22,
+                    color: Colors.black,
                   ),
-                  SizedBox(
-                    height: 20.0,
-                  ),
-                  Hero(
-                    tag: drink.code,
-                    child: CircleAvatar(
-                      radius: 100.0,
-                      backgroundImage: NetworkImage(
-                        drink.img,
-                      ),
-                    ),
-                  ),
-                  SizedBox(
-                    height: 30.0,
-                  ),
-                  Text(
-                    "Storia",
-                    style: TextStyle(
-                      fontSize: 22,
-                      color: Colors.black,
-                    ),
-                  ),
-                  Text("${drink.story}",
-                      style: TextStyle(
-                        fontSize: 18,
-                        color: Colors.black,
-                      ),
-                      textAlign: TextAlign.center),
-                  SizedBox(
-                    height: 20.0,
-                  ),
-                  Text(
-                    "Dosi",
-                    style: TextStyle(
-                      fontSize: 22,
-                      color: Colors.black,
-                    ),
-                  ),
-                  Text("${drink.doses}",
-                      style: TextStyle(
-                        fontSize: 18,
-                        color: Colors.black,
-                      ),
-                      textAlign: TextAlign.center),
-                  SizedBox(
-                    height: 20.0,
-                  ),
-                  Text(
-                    "Preparazione",
-                    style: TextStyle(
-                      fontSize: 22,
-                      color: Colors.black,
-                    ),
-                  ),
-                  Text("${drink.preparation}",
-                      style: TextStyle(
-                        fontSize: 18,
-                        color: Colors.black,
-                      ),
-                      textAlign: TextAlign.center),
-                ],
+                ),
+              SizedBox(
+                height: 2,
               ),
+                Text(
+                  "Categoria: ${drink.category}",
+                  style: TextStyle(
+                    fontSize: 16,
+                    color: Colors.black,
+                  ),
+                ),
+                SizedBox(
+                  height: 20.0,
+                ),
+                Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                    children: [
+                      Hero(
+                        tag: drink.code,
+                        child: CircleAvatar(
+                          radius: 80.0,
+                          backgroundImage: NetworkImage(
+                            drink.img,
+                          ),
+                        ),
+                      ),
+                      Align(
+                        alignment: Alignment.centerLeft,
+                        child: Column(children: [
+                          Text("Ingredienti",
+                              style: TextStyle(
+                                fontSize: 22,
+                                color: Colors.black,
+                              ),
+                              ),
+                          SizedBox(
+                            width: 160,
+                            child: Text("${drink.ingredients}",
+                                overflow: TextOverflow.clip,
+                                style: TextStyle(
+                                  fontSize: 18,
+                                  color: Colors.black,
+                                ),
+                                textAlign: TextAlign.center),
+                          ),
+                        ]),
+                      ),
+                    ]),
+                SizedBox(
+                  height: 30.0,
+                ),
+                Align(
+                  alignment: Alignment.centerLeft,
+                  child: Container(
+                    //color: Colors.red,
+                    child: Text(
+                      "Storia",
+                      style: TextStyle(
+                        fontSize: 22,
+                        color: Colors.black,
+                      ),
+                    ),
+                  ),
+                ),
+                Text("${drink.story}",
+                    style: TextStyle(
+                      fontSize: 18,
+                      color: Colors.black,
+                    ),
+                    textAlign: TextAlign.left),
+                SizedBox(
+                  height: 20.0,
+                ),
+                Align(
+                  alignment: Alignment.centerLeft,
+                  child: Container(
+                    child: Text(
+                      "Dosi",
+                      style: TextStyle(
+                        fontSize: 22,
+                        color: Colors.black,
+                      ),
+                    ),
+                  ),
+                ),
+                SizedBox(
+                  height: null,
+                  child:
+                  ListView.builder(
+                    shrinkWrap: true,
+                    itemCount: doses.length,
+                    itemBuilder: (context, index) {
+                      var dose = doses[index];
+                      return ListTile(
+                          minLeadingWidth: 0,
+                          contentPadding: EdgeInsets.only(left: 0.0, right: 0.0),
+                          visualDensity: VisualDensity(horizontal: 0, vertical: -4),
+                          leading: Icon(Icons.arrow_forward_ios_sharp, color: Colors.black),
+                        title: Text(
+                          dose,
+                          style: TextStyle(
+                            fontSize: 18,
+                            color: Colors.black,
+                          ),
+                        )
+                      );
+                    },
+                  ),
+                ),
+                SizedBox(
+                  height: 20.0,
+                ),
+                Align(
+                  alignment: Alignment.centerLeft,
+                  child: Container(
+                    child: Text(
+                      "Preparazione",
+                      style: TextStyle(
+                        fontSize: 22,
+                        color: Colors.black,
+                      ),
+                    ),
+                  ),
+                ),
+                Text("${drink.preparation}",
+                    style: TextStyle(
+                      fontSize: 18,
+                      color: Colors.black,
+                    ),
+                    textAlign: TextAlign.left),
+              ],
             ),
           ),
         ),

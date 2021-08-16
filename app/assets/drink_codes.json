@@ -11,7 +11,8 @@
       70,
       71
     ],
-    "doses":"2 parti di Tonica, 1 parte di Aperol",
+    "ingredients": "Acqua tonica, Aperol, Lime, Ghiaccio",
+    "doses":"2 parti di Tonica,1 parte di Aperol",
     "preparation":"Pestate il lime direttamente dentro i bicchieri (Collins o Tumbler Alto). Aggiungere il ghiaccio e successivamente l'aperol. Colmate infine i bicchieri con la tonica."
   },
   {
@@ -26,7 +27,8 @@
       69,
       71
     ],
-    "doses":"1 parte di Gin, 1 parte di Succo d'arancia, 2 dash di Orange bitter",
+    "ingredients": "Gin, Succo d'arancia, Orange bitter, Ghiaccio",
+    "doses":"1 parte di Gin,1 parte di Succo d'arancia,2 dash di Orange bitter",
     "preparation":"Shakerare energicamente tutti gli ingredienti con del ghiaccio e versare, filtrando, in una coppetta cocktail. Decorare, con una ciliegina al maraschino posta sul bordo del bicchiere."
   },
   {
@@ -43,7 +45,8 @@
       56,
       71
     ],
-    "doses":"3 cl di Tequila, 2 cl di Rum Bianco, 3 cl parti di Crema di Cocco,  3 cl parti di Pompelmo, 6 cl di Succo d'ananas",
+    "ingredients": "Tequila, Rum Bianco, Crema di Cocco, Pompelmo, Succo d'ananas, Ghiaccio",
+    "doses":"3 cl di Tequila,2 cl di Rum Bianco,3 cl parti di Crema di Cocco,3 cl parti di Pompelmo,6 cl di Succo d'ananas",
     "preparation":"Versare tutti gli ingredienti nel blender con del ghiaccio tritato. Centrifugare tutti gli ingredienti ad elevata velocità per circa una decina di secondi e versare in un tumbler grande.Decorare quindi il drink con una ciliegina e uno spicchio di pompelmo sul bordo. L'altra ciliegina e le cannucce invece vanno messe direttamente nel bicchiere."
   },
   {
@@ -57,7 +60,8 @@
       64,
       69
     ],
-    "doses":"4,5 cl. di Dry Sherry, 2,5 cl. di Vermouth rosso, 1 goccia di Orange bitter",
+    "ingredients": "Dry Sherry, Vermouth Rosso, Orange bitter",
+    "doses":"4.5 cl di Dry Sherry,2.5 cl di Vermouth rosso,1 goccia di Orange bitter",
     "preparation":"Versare gli ingredienti in un mixing glass riempito di ghiaccio e mescolare con uno stirrer. Filtrare poi con uno strainer in una coppetta da cocktail precedentemente raffeddata. Guarnire eventualmente con una scorza di arancia."
   },
   {
@@ -72,7 +76,8 @@
       63,
       3
     ],
-    "doses":"3,5 cl di Whisky, 1,5 cl di Vermut dry, 1,5 cl di Vermut rosso, gocce di Angostura",
+    "ingredients": "Whisky, Vermouth Rosso, Vermouth Dry, Angostura",
+    "doses":"3.5 cl di Whisky,1.5 cl di Vermut dry,1.5 cl di Vermut rosso,gocce di Angostura",
     "preparation":"Mettere tutti gli ingredienti con del ghiaccio nel mixing glass e dopo aver mescolato con lo stirrer, versare filtrando con lo strainer. Servire in una coppetta da cocktail."
   },
   {
@@ -86,7 +91,8 @@
       14,
       69
     ],
-    "doses":"5 cl di Gin, 2 cl di Chartreuse Gialla, 2-3 gocce di Orange Bitter",
+    "ingredients": "Gin, Chartreuse Gialla, Orange Bitter",
+    "doses":"5 cl di Gin,2 cl di Chartreuse Gialla,2-3 gocce di Orange Bitter",
     "preparation":"Shakerare velocemente tutti gli ingredienti con del ghiaccio e successivamente versare nella coppetta da cocktail.Servite subito."
   },
   {
@@ -101,7 +107,8 @@
       75,
       76
     ],
-    "doses":"3 cl di Cognac, 3 cl di crème de cacao scura, 3 cl di Crema di latte (o Panna liquida)",
+    "ingredients": "Cognac, Crema di cacao scura, Crema di latte o Panna liquida",
+    "doses":"3 cl di Cognac,3 cl di crème de cacao scura,3 cl di Crema di latte (o Panna liquida)",
     "preparation":"Versare gli ingredienti in uno shaker pieno di ghiaccio e shakerare molto vigorosamente. Filtrare dunque in una coppetta da cocktail e guarnire eventualmente con una spolverata di noce moscata."
   },
   {
@@ -117,7 +124,8 @@
       73,
       71
     ],
-    "doses":"2 cl di Rum Bianco, 5 cl di Succo d'ananas, 1 cl di Amaretto di Saronno, 3 cl di Crema di Cocco",
+    "ingredients": "Rum Bianco, Succo d'ananas, Amaretto di Saronno, Crema di Cocco, Ghiaccio",
+    "doses":"2 cl di Rum Bianco,5 cl di Succo d'ananas,1 cl di Amaretto di Saronno,3 cl di Crema di Cocco",
     "preparation":"Mescolare gli ingredienti con del ghiaccio tritato per una decina di secondi nel blender e versare in un bicchiere tumbler. Questo drink va decorato mettendo una ciliegina direttamente dentro il bicchiere con delle cannucce. Decorare anche con uno spicchio d'ananas e una ciliegina sul bordo del tumbler."
   },
   {
@@ -132,7 +140,8 @@
       77,
       71
     ],
-    "doses":"5 cl di Amaretto di Saronno, 2,5 cl di Succo di limone, 1,5 cl di Sciroppo di zucchero]",
+    "ingredients": "Amaretto di Saronno, Succo di limone, Sciroppo di zucchero, Ghiaccio",
+    "doses":"5 cl di Amaretto di Saronno,2.5 cl di Succo di limone,1.5 cl di Sciroppo di zucchero",
     "preparation":"Mescolare gli ingredienti con del ghiaccio tritato per una decina di secondi nel blender e versare in una coppetta da cocktail. L’amaretto sour è un cocktail dal sapore pungente con una nota di mandorla, perfetto da gustare di giorno oppure la sera."
   },
   {
@@ -147,7 +156,8 @@
       78,
       71
     ],
-    "doses":"3 cl di Bitter Campari, 3 cl di Vermouth rosso, 3 cl Soda Water]",
+    "ingredients": "Bitter Campari, Vermouth Rosso, Soda Water, Ghiaccio",
+    "doses":"3 cl di Bitter Campari,3 cl di Vermouth rosso,3 cl Soda Water",
     "preparation":"Preparare direttamente in un bicchiere Old Fashioned o Tumbler Basso, con 2 o 3 cubetti di ghiaccio. Versare il Martini Rosso, il Bitter Campari e la Soda Water. Decorare con una scorza di limone e mezza fetta d'arancia."
   },
   {
@@ -161,7 +171,8 @@
       5,
       79
     ],
-    "doses":"3 cl di Gin, 3 cl di Apricot Brandy, 3 cl di Calvados",
+    "ingredients": "Gin, Apricot Brandy, Calvados",
+    "doses":"3 cl di Gin,3 cl di Apricot Brandy,3 cl di Calvados",
     "preparation":"Versare tutti gli ingredienti nello shaker insieme al ghiaccio e agitare energicamente per pochi secondi; versare nella coppetta da cocktail."
   },
   {
@@ -178,7 +189,8 @@
       75,
       76
     ],
-    "doses":"2 cl Sciroppo di granatina, 2,5 cl di Cointreau o Triple Sec, 2,5 cl di Gin, 2,5 cl di Crema di latte o panna liquida",
+    "ingredients": "Sciroppo di granatina, Cointreau o Triple Sec, Gin, Crema di latte o panna liquida",
+    "doses":"2 cl Sciroppo di granatina,2.5 cl di Cointreau o Triple Sec,2.5 cl di Gin,2.5 cl di Crema di latte o panna liquida",
     "preparation":"Questo cocktail si prepara mettendo tutti gli ingredienti direttamente nel bicchiere facendo molta attenzione a non mescolarli tra loro. Per fare cio è importante usare un cucchiaio appoggiato all'orlo del bicchiere e con questo far scivolare gli ingredienti direttamente sul vetro. In questo modo si crea un interessante e piacevole effetto visivo."
   },
   {
@@ -193,7 +205,8 @@
       77,
       80
     ],
-    "doses":"6 cl di Cognac, 2,5 cl di Apricot Brandy, 1,5 cl di Sciroppo di zucchero, 1 Uovo",
+    "ingredients": "Cognac, Apricot Brandy, Sciroppo di zucchero, Uovo",
+    "doses":"6 cl di Cognac,2.5 cl di Apricot Brandy,1.5 cl di Sciroppo di zucchero,1 Uovo",
     "preparation":"Per prima cosa controllate la qualità dell'uovo, se l'uovo è fresco affonderà mentre se è vecchio galleggerà. Unite tutti gli ingredienti nel vostro shaker. Shakerate a secco (senza ghiaccio) e successivamente con ghiaccio. Versate in un bicchiere da cocktail precedentemente raffreddato. Decorate infine con della noce moscata grattugiata."
   },
   {
@@ -208,7 +221,8 @@
       58,
       81
     ],
-    "doses":"4,5 cl di gin, 1,5 cl di maraschino, 1,5 cl di succo di limone fresco, 0,5 cl liquore alla violetta",
+    "ingredients": "Gin, Maraschino, Succo di limone, Liquore alla violetta",
+    "doses":"4.5 cl di gin,1.5 cl di maraschino,1.5 cl di succo di limone fresco,0.5 cl liquore alla violetta",
     "preparation":"Viene preparato prendendo una coppetta di cocktail e riempiendola di ghiaccio. In un secondo bicchiere pieno di ghiaccio sono versati 4,5 cl di gin, aggiungendo 1,5 cl di maraschino, 0,5 cl di creme de violette (opzionale) e 1,5 cl di succo di limone fresco. Il tutto viene versato in uno shaker ed agitato. Il contenuto viene versato nella coppetta da cocktail svuotata precedentemente dal ghiaccio. Il cocktail viene guarnito con una ciliegia (o meglio una marasca) oppure con scorza di limone a spirale, precedentemente spremuta sopra il cocktail, ed è servito senza cannuccia."
   },
   {
@@ -221,7 +235,8 @@
       7,
       10
     ],
-    "doses":"3,5 cl di Benedictine, 3,5 cl di Brandy",
+    "ingredients": "Benedictine, Brandy",
+    "doses":"3.5 cl di Benedictine, 3.5 cl di Brandy",
     "preparation":"Preparare in un Tumbler Basso (Old Fashioned) versando la benedictine ed il Brandy (da questo deriva il nome B&B) direttamente su 4 o 5 cubetti di ghiaccio. Decorare con mezza fetta di limone."
   },
   {
@@ -235,7 +250,8 @@
       6,
       30
     ],
-    "doses":"2 cl di Liquore al caffe Kahlua, 2 cl di Baileys, 2 cl di Grand Marnier]",
+    "ingredients": "Liquore al caffe Kahlúa, Baileys, Grand Marnier",
+    "doses":"2 cl di Liquore al caffe Kahlua,2 cl di Baileys,2 cl di Grand Marnier",
     "preparation":"Normalmente viene servito nei bicchierini shot. Per primo si versa nel bicchierino il liquore al caffè (per esempio Tia Maria o Kahlua), successivamente si versa la Crema Baileys molto lentamente facendola scorrere sul retro di un cucchiaio da cocktail (quelli col manico molto lungo) prestando attenzione al disturbare il meno possibile lo strato inferiore versando quello superiore. Allo stesso modo, sempre con molta attenzione, si versa il Grand Marnier sopra il tutto. Per la versione infiammabile è sufficiente sostituire il Grand Marnier con un rum scuro ad alta gradazione alcolica (dal 60 all'80 %), questo per permettere la combustione. Metterlo nella parte alta del bicchiere (al posto del Grand Marnier) permette di ridurre la temperatura sulla parte bassa del bicchierino evitando che si rompa. Il modo migliore per berlo è lasciarlo sul bancone e berlo usando una cannuccia, ovviamente (a meno che le fiamme non vengano spente prima di bere) si consiglia di usare una cannuccia di metallo ignifuga, inoltre è consigliabile berlo velocemente onde evitare che le fiamme raggiungano anche gli strati inferiori."
   },
   {
@@ -249,7 +265,8 @@
       58,
       29
     ],
-    "doses":"4,5 cl di rum Bacardi Carta Blanca, 2 cl di Succo di lime, 1 cl Sciroppo di granatina",
+    "ingredients": "Rum Bianco , Succo di limone, Sciroppo di granatina",
+    "doses":"4.5 cl di rum Bacardi Carta Blanca,2 cl di Succo di lime,1 cl Sciroppo di granatina",
     "preparation":"Agitare tutti gli ingredienti nello shaker e servire in coppetta da cocktail."
   },
   {
@@ -264,7 +281,8 @@
       56,
       86
     ],
-    "doses":"9 cl di Rum Ambrato, 1,5 cl di Crema di Cocco, 4,5 cl di Succo d'ananas, 4,5 cl di Succo di pompelmo]",
+    "ingredients": "Rum Ambrato, Crema di Cocco, Succo d'ananas, Succo di pompelmo",
+    "doses":"9 cl di Rum Ambrato,1.5 cl di Crema di Cocco,4.5 cl di Succo d'ananas,4.5 cl di Succo di pompelmo",
     "preparation":"Svuotare un pompelmo aiutandosi con un cucchiaio.Successivamente porre la polpa del frutto ben mondata dalla pellicola bianca con del ghiaccio tritato e il rum ambrato, la crema di cocco e il succo di ananas in un blender. Centrifugare tutti gli ingredienti per circa 20 secondi ad alta velocità e versare in un tumbler grande. Decorare infine il cocktail con un trancio di ananas, due ciliegine rosse, un rametto di menta e le cannucce."
   },
   {
@@ -278,7 +296,8 @@
       98,
       58
     ],
-    "doses":"6 cl di Rum Bianco , Crema di 1/2 banana, 2,5 cl di Succo di limone]",
+    "ingredients": "Rum Bianco, Crema di banana, Succo di limone",
+    "doses":"6 cl di Rum Bianco, Crema di 1/2 banana,2.5 cl di Succo di limone",
     "preparation":"Frullate nel blender mezza banana insieme a un cucchiaio di ghiaccio tritato e il succo di limone o di lime. Aggiungete il rum e la crema di banana. Shakerate bene e ersate nei goblet. Decorate ciascuno con una rondella di banana."
   },
   {
@@ -294,7 +313,8 @@
       87,
       71
     ],
-    "doses":"1,5 cl Sciroppo di zucchero, 3 cl di Succo di limone, 5 cl di Vodka, 6 foglie di Basilico",
+    "ingredients": "Sciroppo di zucchero, Succo di limone, Vodka, Basilico, Ghiaccio",
+    "doses":"1.5 cl Sciroppo di zucchero,3 cl di Succo di limone,5 cl di Vodka,6 foglie di Basilico",
     "preparation":"Mettete tutti gli ingredienti nel blender e frullate. Poi versate nei tumbler alti. Servite con ghiaccio e due cannucce. Decorate con una cima di basilico, e uno spiedino con 2 olive e una fetta di limone."
   },
   {
@@ -309,7 +329,8 @@
       56,
       71
     ],
-    "doses":"1/3 Gin, 1/3 Rum Bianco , 1/3 Succo d'ananas]",
+    "ingredients": "Gin, Rum Bianco, Succo d'ananas, Ghiaccio",
+    "doses":"1/3 Gin,1/3 Rum Bianco,1/3 Succo d'ananas",
     "preparation":"Raffreddate lo shaker, poi scolate l'acqua in eccesso. Versateci il gin, il rum e il succo d'ananas e agitate bene. Servite nei tumbler bassi, guarnendo ciascuno con i cubetti di ananas, la ciliegina al maraschino e la ciliegina sciroppata."
   },
   {
@@ -325,7 +346,8 @@
       62,
       58
     ],
-    "doses":"3 cl. di Cognac, 3 cl. di Rum bianco, 3 cl. di Cointreau o Triple sec, 2 cl. di succo di limone fresco]",
+    "ingredients": "Cognac, Rum Bianco,Cointreau o Triple sec, Succo di limone",
+    "doses":"3 cl di Cognac,3 cl di Rum bianco,3 cl di Cointreau o Triple sec,2 cl di succo di limone fresco",
     "preparation":"Mettete il Cognac, il Rum bianco, il triple sec e il succo di limone nello shaker con ghiaccio tritato. Shekerare energicamente, quindi filtrate nella coppetta cocktail precedentemente ghiacciata."
   },
   {
@@ -338,7 +360,8 @@
       66,
       32
     ],
-    "doses":"5,0 cl di Vodka, 2,0 cl di Liquore al caffè",
+    "ingredients": "Vodka, Liquore al caffe Kahlúa",
+    "doses":"5 cl di Vodka,2 cl di Liquore al caffè",
     "preparation":"Miscelare direttamente sul ghiaccio in un bicchiere old fashioned privo di decorazioni."
   },
   {
@@ -357,7 +380,8 @@
       92,
       71
     ],
-    "doses":"4,5 cl di vodka, 9 cl di succo di pomodoro, 1,5 cl di succo di limone, 2/3 gocce di salsa Worcestershire, 1 pizzico di sale al sedano e di pepe nero, Tabasco]",
+    "ingredients": "Vodka, Succo di pomodoro, Succo di limone, Salsa Worcestershire, Sale, Pepe, Tabasco, Ghiaccio",
+    "doses":"4.5 cl di vodka,9 cl di succo di pomodoro,1.5 cl di succo di limone,2/3 gocce di salsa Worcestershire,1 pizzico di sale al sedano e di pepe nero,Tabasco",
     "preparation":"Si prepara direttamente nel bicchiere tumbler alto con ghiaccio. Aggiungere worchester, Tabasco, sale e pepe quanto basta."
   },
   {
@@ -371,7 +395,8 @@
       66,
       56
     ],
-    "doses":"2 cl di Curacao Blu, 4 cl di Vodka, 4 cl di Succo d'ananas]",
+    "ingredients": "Curaçao Blu, Vodka, Succo d'ananas",
+    "doses":"2 cl di Curacao Blu,4 cl di Vodka,4 cl di Succo d'ananas",
     "preparation":"Dopo aver raffreddato le coppette cocktail, fate lo stesso con lo shaker, quindi scolate l'acqua in eccesso e versate la vodka, il curacao blu e il succo di ananas. Shakerate per alcuni secondi e servite nelle coppette, decorate con una fettina di ananas"
   },
   {
@@ -386,7 +411,8 @@
       64,
       57
     ],
-    "doses":"4 cl di Gin, 2 cl di Vermouth Dry, 2 cl di Vermouth Rosso, 2 cl di Succo d'arancia]",
+    "ingredients": "Gin, Vermouth Dry, Vermouth Rosso, Succo d'arancia",
+    "doses":"4 cl di Gin,2 cl di Vermouth Dry,2 cl di Vermouth Rosso,2 cl di Succo d'arancia",
     "preparation":"Viene preparato nello shaker con l'aggiunta di ghiaccio. Si serve nella coppetta cocktail e non presenta guarnizioni."
   },
   {
@@ -400,7 +426,8 @@
       66,
       67
     ],
-    "doses":"5/10 Red Bull, 2,5/10 Vodka, 2,5/10 Vodka alla fragola",
+    "ingredients": "Red Bull, Vodka, Vodka alla fragola",
+    "doses":"5/10 Red Bull,2.5/10 Vodka,2.5/10 Vodka alla fragola",
     "preparation":"Preparare direttamente in un bicchiere tumbler medio con alcuni cubetti di ghiaccio e versare la Red Bull e la vodka (50% alla fragola e 50% liscia). Decorare con uno spiedino di fragole."
   },
   {
@@ -415,7 +442,8 @@
       84,
       71
     ],
-    "doses":"6 cl di cachaça, mezzo lime, zucchero di canna o in alternativa bianco (3 cucchiaini da tè), ghiaccio tritato",
+    "ingredients": "Cachaça, Lime, Zucchero di canna, Ghiaccio",
+    "doses":"6 cl di cachaça,mezzo lime,zucchero di canna o in alternativa bianco (3 cucchiaini da tè),ghiaccio tritato",
     "preparation":"Preparare in un Tumbler Basso (Old Fashioned). Tagliare il Lime a metà e poi in dodici pezzetti tutti di uguale misura, adagiare i cubetti nel bicchiere. Aggiungere lo zucchero e con il pestello esercitare una leggera pressione sulla polpa del Lime, è utile eseguire movimenti rotatori, per fare uscire il succo, facendo attenzione a non comprimere troppo la buccia amara. Aggiungono i cubetti di ghiaccio spaccati e infine la cachaça. Come guarnizione aggiungera una fetta di Lime (tagliata sottile) inserendola sul bordo del bicchiere. Servire il drink con due cannucce corte. Il drink non va shakerato né agitato."
   },
   {
@@ -430,7 +458,8 @@
       84,
       71
     ],
-    "doses":"6 cl di Rum Bianco, mezzo lime, zucchero di canna o in alternativa bianco (3 cucchiaini da tè), ghiaccio tritato",
+    "ingredients": "Rum Bianco, Lime, Zucchero di canna, Ghiaccio",
+    "doses":"6 cl di Rum Bianco,mezzo lime,zucchero di canna o in alternativa bianco (3 cucchiaini da tè),ghiaccio tritato",
     "preparation":"Pestate direttamente negli old fashioned i pezzetti di lime con lo zucchero di canna, aiutandovi con il muddler. Aggiungete 3-4 cubetti di ghiaccio e il rum bianco mescolate con lo stirrer. Servite con una cannuccia corta."
   },
   {
@@ -445,7 +474,8 @@
       84,
       71
     ],
-    "doses":"6 cl di Vodka, mezzo 70, zucchero di canna o in alternativa bianco (3 cucchiaini da tè), ghiaccio tritato",
+    "ingredients": "Vodka, Lime, Zucchero di canna, Ghiaccio",
+    "doses":"6 cl di Vodka,mezzo lime,zucchero di canna o in alternativa bianco (3 cucchiaini da tè),ghiaccio tritato",
     "preparation":"Preparare in un Tumbler Basso (Old Fashioned) con un lime tagliato a cubetti su cui versare un paio di cucchiaini di zucchero (preferibilmente di canna). Versare il ghiaccio a scaglie e successivamente la vodka. Servire con cannucce corte."
   },
   {
@@ -462,7 +492,8 @@
       84,
       71
     ],
-    "doses":"6 cl di 66, 2,5 cl di Sciroppo di fragola, 1,5 cl Succo di limone, zucchero di canna o in alternativa bianco (3 cucchiaini da tè), ghiaccio tritato",
+    "ingredients": "Vodka, Sciroppo di fragola, Fragole, Succo di limone, Zucchero di canna, Ghiaccio",
+    "doses":"6 cl di 66,2.5 cl di Sciroppo di fragola,1.5 cl Succo di limone,zucchero di canna o in alternativa bianco (3 cucchiaini da tè),ghiaccio tritato",
     "preparation":"Frullate nel blender le fragole con il succo di limone e lo sciroppo di fragola. Ponete nei tumbler o old fashioned i pezzetti di lime e pestateli con il muddler. Uniteci la polpa di fragola frullata, abbondante ghiaccio tritato e vodka. Mescolate bene con lo stiller e servite con una cannuccia corta."
   },
   {
@@ -478,7 +509,8 @@
       102,
       103
     ],
-    "doses":"3 cl di Gin, 2 cl di Vodka alla pesca, 1 cl di Passoa, 2 cl di Banana Camel, 2 cl di Succo tropicale",
+    "ingredients": "Gin, Vodka alla pesca, Passoã, Banana Camel, Succo tropicale",
+    "doses":"3 cl di Gin,2 cl di Vodka alla pesca,1 cl di Passoa,2 cl di Banana Camel,2 cl di Succo tropicale",
     "preparation":"Raffreddate lo shaker, poi scolate l'acqua in eccesso. Versateci il gin, la vodka, il passoa, il banana camel e il succo tropicale. Shakerate bene e versate il tutto nei tumbler alti riempiti con cubetti di ghiaccio. Infine decorate ciascun tumbler con uno spicchio di ananas, un mandarino cinese e una ciliegina. Servite con due cannucce."
   },
   {
@@ -495,7 +527,8 @@
       86,
       71
     ],
-    "doses":"3 cl di Gin, 1,5 cl di Bitter Campari, 2 cl di Succo d'arancia, 1,5 cl di Aperol, 2 cl di Succo di pompelmo",
+    "ingredients": "Gin, Bitter Campari, Succo d'arancia, Aperol, Succo di pompelmo, Ghiaccio",
+    "doses":"3 cl di Gin,1.5 cl di Bitter Campari,2 cl di Succo d'arancia,1.5 cl di Aperol,2 cl di Succo di pompelmo",
     "preparation":"Preparate questo cocktail direttamente nei tumbler \"on the rocks\", miscelando gli ingredienti con lo stirrer. Decorate ciascun bicchiere con una spirale di scorza di limone, una ciliegina rossa e un ciuffetto di menta. Servite con una cannuccia."
   },
   {
@@ -508,7 +541,8 @@
       66,
       94
     ],
-    "doses":"6 cl di Vodka, 4 cl di Crema di cacao bianca",
+    "ingredients": "Vodka, Crema di cacao bianca",
+    "doses":"6 cl di Vodka,4 cl di Crema di cacao bianca",
     "preparation":"Per preparare il Chocolate Martini unite i due ingredienti in uno shaker con del ghiaccio, agitare vigorosamente per 10-15 secondi. Versate in un bicchiere da cocktails e servire."
   },
   {
@@ -524,7 +558,8 @@
       83,
       97
     ],
-    "doses":"4 cl di vodka, 1,5 cl di cointreau, 1,5 cl succo di lime, 3 cl succo di mirtillo o mirtillo rosso",
+    "ingredients": "Vodka, Cointreau o Triple Sec, Succo di lime, Succo di mirtillo",
+    "doses":"4 cl di vodka,1.5 cl di cointreau,1.5 cl succo di lime,3 cl succo di mirtillo o mirtillo rosso",
     "preparation":"Versate in uno shaker la vodka, il triple sec, il succo di cranberry e qualche cubetto di ghiaccio. Spremete un limone, filtratene il succo, versatelo nello shaker, chiudetelo col secondo boccale e shakerate. Agitate energicamente fino a far divenire lo shaker ben freddo. Versate il cocktail nel classico bicchiere a cono e filtrate il ghiaccio con uno strainer. Tagliate una fetta sottile di lime incidendolo leggermente per applicarla sul bicchiere da guarnire. Gustatelo ancora freddo."
   },
   {
@@ -539,7 +574,8 @@
       83,
       71
     ],
-    "doses":"5 cl di rum chiaro, 12 cl di cola, 1 cl di succo di lime",
+    "ingredients": "Rum chiaro, Cola, Succo di lime, Ghiaccio",
+    "doses":"5 cl di rum chiaro,12 cl di cola,1 cl di succo di lime",
     "preparation":"Versare il Rum, la Cola e miscelare delicatamente. Da servire in un tumbler alto colmo di ghiaccio e guarnire con una fetta di lime"
   },
   {
@@ -556,7 +592,8 @@
       59,
       71
     ],
-    "doses":"5 cl di Rum chiaro, 2 cl di Rum ambrato, 12 cl di Cola, 1 cl di Succo di lime, Sweet'n'sour q.b.",
+    "ingredients": "Rum chiaro, Rum ambrato, Cola, Succo di lime, sweet'n'sour, Ghiaccio",
+    "doses":"5 cl di Rum chiaro,2 cl di Rum ambrato,12 cl di Cola,1 cl di Succo di lime,Sweet'n'sour q.b.",
     "preparation":"Rum, Cola, Miscelare delicatamente. Da servire in un tumbler alto colmo di ghiaccio e guarnire con una fetta di lime"
   },
   {
@@ -571,7 +608,8 @@
       83,
       109
     ],
-    "doses":"6 cl di Rum Bianco , Crema di 1/2 banana, 1,5 cl di Succo di lime",
+    "ingredients": "Rum Bianco, Crema di banana, Succo di lime, Banana",
+    "doses":"6 cl di Rum Bianco,Crema di 1/2 banana,1.5 cl di Succo di lime",
     "preparation":"Frullare nel blender con ghiaccio a scaglie e versare senza filtrare in un calice. Decorare con mezza banana e cannucce corte."
   },
   {
@@ -586,7 +624,8 @@
       77,
       100
     ],
-    "doses":"6 cl di Rum Bianco, 2,5 cl di Succo di lime, 1,5 cl di Sciroppo di zucchero, 8 Fragole",
+    "ingredients": "Rum Bianco , Succo di lime, Sciroppo di zucchero, Fragole",
+    "doses":"6 cl di Rum Bianco,2.5 cl di Succo di lime,1.5 cl di Sciroppo di zucchero,8 Fragole",
     "preparation":"Per prima cosa lavate lavate 8 fragole mature avendo cura di eliminare il picciolo (una fragola tenetela invece con il picciolo, vi servirà in seguito per decorare il vostro cocktail). Mixate 7 fragole nel frullatore e spremete bene il lime. Versate nello shaker la loro polpa ed unite anche lo sciroppo di zucchero liquido, il succo di lime, il rum bianco ed il ghiaccio. Agitate bene e versate nel bicchiere dopo aver filtrato, infine guarnite con la fragola che precedentemente avete tenuto da parte e servite immediatamente."
   },
   {
@@ -602,7 +641,8 @@
       77,
       110
     ],
-    "doses":"4,5 cl di Dry Gin, 1,5 cl di Campari, 1,5 cl di Sciroppo di Zucchero, 1,5 cl di Succo Fresco di Limone, 4 acini di Uva",
+    "ingredients": "Gin, Bitter Campari, Succo di limone, Sciroppo di zucchero, Uva",
+    "doses":"4.5 cl di Dry Gin,1.5 cl di Campari,1.5 cl di Sciroppo di Zucchero,1.5 cl di Succo Fresco di Limone,4 acini di Uva",
     "preparation":"Come prima cosa mettete l'uva nello shaker, aggiungete gli altri ingredienti ed agitate con del ghiaccio. Versate nei bicchiere da cocktail (dove precedentemente avete messo del ghiaccio). Decorate infine i bicchieri con uno spiedino di uva."
   },
   {
@@ -617,7 +657,8 @@
       32,
       77
     ],
-    "doses":"5 cl di vodka, 1 cl di Kahlúa, Sciroppo di zucchero (secondo i gusti personali), 1 caffè espresso",
+    "ingredients": "Vodka, Caffe', Liquore al caffe Kahlúa, Sciroppo di zucchero",
+    "doses":"5 cl di vodka,1 cl di Kahlúa,Sciroppo di zucchero (secondo i gusti personali),1 caffè espresso",
     "preparation":"Raffreddate la coppetta da cocktail e riempitela con i cubetti di ghiaccio. Shakerare gli ingredienti, dopodiché versare il cocktail nella coppetta, dopo aver rimosso il ghiaccio. Decorare con tre chicchi di caffè."
   },
   {
@@ -633,7 +674,8 @@
       83,
       71
     ],
-    "doses":"3 cl di vodka, 3 cl di cointreau o triple sec, 3 cl di succo di Lime",
+    "ingredients": "Vodka, Cointreau o Triple sec, Succo di lime, Ghiaccio",
+    "doses":"3 cl di vodka,3 cl di cointreau o triple sec,3 cl di succo di Lime",
     "preparation":"Versare gli ingredienti nello shaker, agitare e servire in una coppetta da cocktail. Nella versione On The Rocks versare gli ingredienti direttamente in un bicchiere old fashioned con ghiaccio e mescolare."
   },
   {
@@ -646,7 +688,8 @@
       16,
       1
     ],
-    "doses":"3.5 cl di cognac, 3.5 cl di amaretto",
+    "ingredients": "Cognac, Amaretto di Saronno",
+    "doses":"3.5 cl di cognac,3.5 cl di amaretto",
     "preparation":"Miscelare direttamente sul ghiaccio in un Tumbler Basso (old fashioned)"
   },
   {
@@ -660,7 +703,8 @@
       38,
       66
     ],
-    "doses":"2 cl di Succo di limone, 2 cl di Maraschino, 6 cl di Vodka",
+    "ingredients": "Succo di limone, Maraschino, Vodka",
+    "doses":"2 cl di Succo di limone,2 cl di Maraschino,6 cl di Vodka",
     "preparation":"Raffreddate lo shaker e scolate l'acqua in eccesso. Versate la vodka, il succo di limone e il maraschino. Shakerate bene e servite nelle coppette cocktail."
   },
   {
@@ -673,7 +717,8 @@
       8,
       57
     ],
-    "doses":"3 cl di Bitter Campari, 7 cl di Succo d'arancia",
+    "ingredients": "Bitter Campari, Succo d'arancia",
+    "doses":"3 cl di Bitter Campari,7 cl di Succo d'arancia",
     "preparation":"Preparare direttamente in un bicchiere (di tipo Highball/Tumbler Medio) pieno di ghiaccio fino all'orlo. Versare il Bitter Campari ed il succo d'arancia. Decorare con mezza fetta d'arancia."
   },
   {
@@ -686,7 +731,8 @@
       27,
       63
     ],
-    "doses":"6 cl di gin, 1 cl di Vermouth Dry",
+    "ingredients": "Gin, Vermouth Dry",
+    "doses":"6 cl di gin,1 cl di Vermouth Dry",
     "preparation":"Versate il gin e il Vermouth Dry nel mixing glass con ghiaccio, agitate e servitelo in una coppetta da cocktail ben fredda. La sua guarnizione è una cipollina in agro dolce."
   },
   {
@@ -699,7 +745,8 @@
       63,
       27
     ],
-    "doses":"6 cl di gin, 3,5 - 4 cl di vermut Dry",
+    "ingredients": "Vermouth Dry, Gin",
+    "doses":"6 cl di gin,3.5 - 4 cl di vermut Dry",
     "preparation":"Raffreddate il mixing-glass ed eliminate l'acqua in eccesso. Versatevi il dry vermouth francese e il gin. Miscelate e versate nelle coppette cocktail,che decorerete con una spirale di scorza di limone."
   },
   {
@@ -712,7 +759,8 @@
       64,
       27
     ],
-    "doses":"3 cl di Vermouth Rosso, 7 cl di Gin",
+    "ingredients": "Vermouth Rosso, Gin",
+    "doses":"3 cl di Vermouth Rosso,7 cl di Gin",
     "preparation":"Il cocktail viene preparato versando gli ingredienti nel mixing glass precedentemente raffreddato assieme ad alcuni cubetti di ghiaccio, mescolando con lo stirrer. Il tutto viene versato nella coppetta da cocktail ghiacciata, che viene decorata con una ciliegina rossa."
   },
   {
@@ -727,19 +775,9 @@
       77,
       78
     ],
-    "doses":"4,5 cl di Gin,3 cl di Succo di limone, 1 cl di Sciroppo di zucchero, 8 cl di Soda Water",
+    "ingredients": "Gin, Succo di limone, Sciroppo di zucchero, Soda Water",
+    "doses":"4.5 cl di Gin,3 cl di Succo di limone,1 cl di Sciroppo di zucchero,8 cl di Soda Water",
     "preparation":"Prendere un bicchiere di tipo highball e riempirlo di cubetti di ghiaccio. Prendere uno shaker e riempirlo a sua volta di cubetti di ghiaccio. Aggiungere in un bicchiere lo sciroppo semplice, il gin e il succo di limone fresco. Rimuovere l'acqua in eccesso dallo shaker, versarvi gli ingredienti e agitare. Rimuovere il ghiaccio dall'highball e versarvi la soluzione ottenuta. Per completare aggiungere la soda. Guarnire con scorza di limone da riporre all'interno dell'highball e con una rondella di limone sul bicchiere. Servire senza cannuccia."
-  },
-  {
-    "name":"GIN LEMON",
-    "category":"Long Drink",
-    "code": "57",
-    "story":"",
-    "img":"https://www.digicocktails.com/images/cocktails/21.jpg",
-    "codes":
-    [27, 104, 3, 71],
-    "doses":"60 cl di Gin, 4 cl di Lemon Schweppes o Lemonsoda, 4 gocce d'Angostura",
-    "preparation": "Preparare in un bicchiere Tumbler Medio con 3 o 4 cubetti ghiaccio in cui versare il gin e la Lemon (Schweppes Lemon o altrimenti Lemonsoda). Decorare con mezza fetta di limone."
   },
   {
     "name":"GIN TONIC",
@@ -752,8 +790,21 @@
       61,
       71
     ],
-    "doses":"4 cl di Gin, 8 cl di Tonica",
+    "ingredients": "Gin, Acqua Tonica, Ghiaccio",
+    "doses":"4 cl di Gin,8 cl di Tonica",
     "preparation":"La preparazione del gin tonic avviene nel medesimo bicchiere utilizzato per la consumazione, privilegiando un bicchiere tumbler, colmo di ghiaccio, in cui versare il gin e la Tonica. Decorare con mezza fetta di limone."
+  },
+  {
+    "name":"GIN LEMON",
+    "category":"Long Drink",
+    "code": "57",
+    "story":"",
+    "img":"https://www.digicocktails.com/images/cocktails/21.jpg",
+    "codes":
+    [27, 104, 3, 71],
+    "ingredients": "Gin, Lemon Schweppes o Lemonsoda, Angostura, Ghiaccio",
+    "doses":"60 cl di Gin,4 cl di Lemon Schweppes o Lemonsoda,4 gocce d'Angostura",
+    "preparation": "Preparare in un bicchiere Tumbler Medio con 3 o 4 cubetti ghiaccio in cui versare il gin e la Lemon (Schweppes Lemon o altrimenti Lemonsoda). Decorare con mezza fetta di limone."
   },
   {
     "name":"GODFATHER",
@@ -765,7 +816,8 @@
       68,
       1
     ],
-    "doses":"3,5 cl di scotch whisky, 3,5 cl di Liquore di amaretto",
+    "ingredients": "Whisky, Amaretto di Saronno",
+    "doses":"3.5 cl di scotch whisky,3.5 cl di Liquore di amaretto",
     "preparation":"Versare direttamente nel bicchiere tumbler basso riempito di ghiaccio lo scotch whisky e il liquore amaretto, mescolare con o stirrer o con cucchiaio da barman e servire senza decorazioni."
   },
   {
@@ -778,7 +830,8 @@
       66,
       1
     ],
-    "doses":"3,5 cl di vodka, 3,5 cl di Amaretto",
+    "ingredients": "Vodka, Amaretto di Saronno",
+    "doses":"3.5 cl di vodka,3.5 cl di Amaretto",
     "preparation":"Mescolare lentamente tutti gli ingredienti all'interno di un bicchiere Old fashioned pieno di ghiaccio."
   },
   {
@@ -793,7 +846,8 @@
       75,
       76
     ],
-    "doses":"3.0 cl di Galliano, 3.0 cl di Crema di cacao bianca, 3.0 cl di Crema di latte o panna liquida",
+    "ingredients": "Galliano, Crema di cacao bianca, Crema di latte o panna liquida",
+    "doses":"3 cl di Galliano,3 cl di Crema di cacao bianca,3 cl di Crema di latte o panna liquida",
     "preparation":"Raffreddare la coppetta cocktail con 4-5 cubetti di ghiaccio. Porre tutti gli ingredienti in uno shaker con ghiaccio. Shakerare per circa 5 secondi, svuotare la coppetta e servire."
   },
   {
@@ -810,7 +864,8 @@
       75,
       76
     ],
-    "doses":"2.0 cl di Liquore Galliano, 2.0 cl di triple sec o Cointreau, 2.0 cl di succo d' arancia, 1.0 cl di Crema di latte o panna liquida",
+    "ingredients": "Galliano, Cointreau o Triple Sec, Succo d'arancia, Crema di latte o panna liquida",
+    "doses":"2 cl di Liquore Galliano,2 cl di triple sec o Cointreau,2 cl di succo d' arancia,1 cl di Crema di latte o panna liquida",
     "preparation":"Introdurre tutti gli ingredienti in uno shaker con ghiaccio. Shakerare energicamente per pochi secondi e servire in una coppetta da cocktail."
   },
   {
@@ -824,7 +879,8 @@
       34,
       99
     ],
-    "doses":"3 cl di Vodka, 3 cl di Lillet blanc, 7 cl di Succo di melograno",
+    "ingredients": "Vodka, Lillet blanc, Succo di melograno",
+    "doses":"3 cl di Vodka,3 cl di Lillet blanc,7 cl di Succo di melograno",
     "preparation":"Mettete i 3 ingredienti nello shaker e agitate con del ghiaccio. Filtrare sopra dei cubetti di ghaccio. Decorate con mezza fetta di arancia."
   },
   {
@@ -839,7 +895,8 @@
       26,
       71
     ],
-    "doses":"4,5 cl di vodka, 1,5 cl di liquore Galliano, 9 cl di succo d'arancia",
+    "ingredients": "Vodka, Succo d'arancia, Galliano, Ghiaccio",
+    "doses":"4.5 cl di vodka,1.5 cl di liquore Galliano,9 cl di succo d'arancia",
     "preparation":"Il cocktail si prepara direttamente in un bicchiere di tipo tumbler. Il tumbler va riempito con ghiaccio, vodka e succo d'arancia secondo le dosi; dopo aver mescolato gli ingredienti si aggiunge il Galliano in superficie. L'Harvey va poi decorato con una fetta d'arancia ed una ciliegina entrambe dentro il bicchiere."
   },
   {
@@ -852,7 +909,8 @@
       57,
       44
     ],
-    "doses":"40% Succo d'arancia, 60% Prosecco]",
+    "ingredients": "Succo d'arancia, Prosecco",
+    "doses":"40% Succo d'arancia,60% Prosecco]",
     "preparation":"Spremere un'arancia e filtrarne il succo attraverso un colino in un bicchiere da cocktail di tipo flute ben freddo. Aggiungere il prosecco. Servire direttamente nel bicchiere utilizzato per il succo d'arancia."
   },
   {
@@ -865,7 +923,8 @@
       57,
       13
     ],
-    "doses":"40% Succo d'arancia, 60% Champagne",
+    "ingredients": "Succo d'arancia, Champagne",
+    "doses":"40% Succo d'arancia,60% Champagne",
     "preparation":"Spremere un'arancia e filtrarne il succo attraverso un colino in un bicchiere da cocktail di tipo flute ben freddo. Aggiungere lo champagne. Servire direttamente nel bicchiere utilizzato per il succo d'arancia."
   },
   {
@@ -878,7 +937,8 @@
       27,
       63
     ],
-    "doses":"6 cl di Gin, 1 cl di Vermouth Dry",
+    "ingredients": "Gin, Vermouth Dry",
+    "doses":"6 cl di Gin,1 cl di Vermouth Dry",
     "preparation":"Riempire una coppa Martini di ghiaccio per raffreddarla, riempire un mixing glass di ghiaccio e versare tutti gli ingredienti al suo interno, quindi mescolare bene. Scolare il ghiaccio dalla coppa Martini e versare il cocktail, filtrandolo dal ghiaccio con lo strainer. Guarnire con un'oliva oppure spremere una scorza di limone sulla superficie della coppa Martini ma non inserirla nel bicchiere."
   },
   {
@@ -892,7 +952,8 @@
       63,
       64
     ],
-    "doses":"6,0 cl di gin, 1,0 cl di vermut dry, 1,0 cl di vermut rosso",
+    "ingredients": "Gin, Vermouth Dry, Vermouth Rosso",
+    "doses":"6 cl di gin,1 cl di vermut dry,1 cl di vermut rosso",
     "preparation":"Gli ingredienti vanno versati in un mixing glass con aggiunta di cubetti di ghiaccio; si mescola bene e si serve in una coppetta a cocktail raffreddata. La decorazione del cocktail è la ciliegina rossa."
   },
   {
@@ -905,7 +966,8 @@
       27,
       64
     ],
-    "doses":"5,5 cl di Gin, 1,5 cl di Vermouth rosso",
+    "ingredients": "Gin, Vermouth Rosso",
+    "doses":"5.5 cl di Gin,1.5 cl di Vermouth rosso",
     "preparation":"si prepara nel mixing-glass e si serve nella coppetta a cocktail, aggiungendo una ciliegina al maraschino come guarnizione. Si può anche servire con ghiaccio, ma in questo caso va servito in un bicchiere old fashioned."
   },
   {
@@ -919,7 +981,8 @@
       28,
       3
     ],
-    "doses":"4 cl Brandy, 12 cl Ginger Ale, Gocce di Angostura bitter (facoltative)",
+    "ingredients": "Brandy, Ginger Ale, Angostura",
+    "doses":"4 cl Brandy,12 cl Ginger Ale,Gocce di Angostura bitter (facoltative)",
     "preparation":"Si prepara direttamente nel bicchiere highball con cubetti di ghiaccio. Si mescola delicatamente e si guarnisce con una spirale di limone. Se richiesto, aggiungere alcune gocce di Angostura Bitter."
   },
   {
@@ -934,7 +997,8 @@
       75,
       76
     ],
-    "doses":"3 cl di Whisky, 1 Caffe', Crema di latte o panna liquida",
+    "ingredients": "Whisky, Caffe', Crema di latte o panna liquida",
+    "doses":"3 cl di Whisky,1 Caffe',Crema di latte o panna liquida",
     "preparation":"L'Irish coffee, o caffè irlandese, è un caffè caldo, zuccherato, corretto con whisky e con uno strato di panna (crema di latte, ndr) sulla superficie. Viene servito pre-riscaldando il bicchiere, mettendoci il caffè corretto e zuccherato ed aggiungendovi per ultima la panna, leggermente montata. A volte, ma piuttosto raramente, al caffè vengono aggiunte spezie quali la noce moscata o la cannella."
   },
   {
@@ -953,7 +1017,8 @@
       100,
       108
     ],
-    "doses":"1,5 cl di Rum Bianco , 2,5 cl di Rum scuro, 4 cl di Soda Water, Fragole 2-3, Ananas 1 fetta",
+    "ingredients": "Rum Bianco , Rum Scuro, Soda Water, Lime, Zucchero di canna, Menta, Fragole, Ananas",
+    "doses":"1.5 cl di Rum Bianco,2.5 cl di Rum scuro,4 cl di Soda Water,Fragole 2-3,Ananas 1 fetta",
     "preparation":"Il Jamaican mojito si prepara direttamente dentro i tumbler alti. Ponetevi i pezzi di lime, lo zucchero di canna e un ciffo di hierbabuena (o menta) e pestate il tutto. Aggiungete 2-3 fragole a pezzetti, ma non pestate, e l'ananas, anche questo a pezzettini. Aggiungete del ghiaccio e il rum chiaro. Mescolate il tutto. A questo punto aggiungete un top di rum scuro, in modo da formare un sottile strato scuro. Colmate con la soda. Infine decorate il cocktail con un ciuffo di menta. Se fatto bene questo cocktail presenterà i tipici colori della bandiera jamaicana. Servitelo con due cannucce."
   },
   {
@@ -968,7 +1033,8 @@
       77,
       78
     ],
-    "doses":"4,5 cl di gin, 1,5 cl di sciroppo di zucchero, 3 cl di succo di limone fresco, 6 cl di Soda water",
+    "ingredients": "Gin, Succo di limone, Sciroppo di zucchero, Soda Water",
+    "doses":"4.5 cl di gin,1.5 cl di sciroppo di zucchero,3 cl di succo di limone fresco,6 cl di Soda water",
     "preparation":"Si prepara direttamente nel bicchiere Tumbler Medio con cubetti di ghiaccio e si guarnisce con ciliegina e una fetta di limone"
   },
   {
@@ -982,7 +1048,8 @@
       75,
       76
     ],
-    "doses":"3 cl Liquore al caffe Kahlua, 2 cucchiai Crema di latte o panna liquida",
+    "ingredients": "Liquore al caffe Kahlúa, Crema di latte o panna liquida",
+    "doses":"3 cl Liquore al caffe Kahlúa,2 cucchiai Crema di latte o panna liquida",
     "preparation":"Ponete 2 o 3 cubetti di ghiaccio negli old fashioned. Versateci poi il liquore al caffè e fate scivolare la panna lentamente sul dorso del cucchiaio da bar, così che non si amalgami con il liquore ma formi uno strato separato da questo, in superficie."
   },
   {
@@ -995,7 +1062,8 @@
       19,
       65
     ],
-    "doses":"1 cl di Creme de Cassis, 9 cl di Vino bianco secco",
+    "ingredients": "Creme de Cassis, Vino bianco secco",
+    "doses":"1 cl di Creme de Cassis,9 cl di Vino bianco secco",
     "preparation":"Si prepara direttamente nella flûte, versando prima la Crème de Cassis e colmando con vino ben freddo. In alternativa si può usare un bicchiere a calice per vino."
   },
   {
@@ -1008,7 +1076,8 @@
       19,
       13
     ],
-    "doses":"1 cl di Creme de Cassis, 9 cl di Champagne",
+    "ingredients": "Creme de Cassis, Champagne",
+    "doses":"1 cl di Creme de Cassis,9 cl di Champagne",
     "preparation":"Preparare direttamente nel bicchiere flûte ghiacciato. Versare prima la creme de Cassis e poi lo champagne freddo."
   },
   {
@@ -1028,7 +1097,8 @@
       18,
       71
     ],
-    "doses":"1,5 cl vodka, 1,5 cl rum bianco, 1,5 cl triple sec, 1,5 cl gin, 1,5 cl tequila, 6 cl sweet e sour, top di cola (circa 3 cl) cola",
+    "ingredients": "Vodka, Gin, Rum Bianco, Cointreau o Triple Sec, Tequila, Sweet e sour, Coca Cola, Ghiaccio",
+    "doses":"1.5 cl vodka,1.5 cl rum bianco,1.5 cl triple sec,1.5 cl gin,1.5 cl tequila,6 cl sweet e sour,top di cola (circa 3 cl) cola",
     "preparation":"Riempire un bicchiere di tipo rock alto con cubetti di ghiaccio. Prendere uno shaker e versare al suo interno le componenti alcoliche e lo sweet e sour. Shakerare e versare nel bicchiere precedentemente riempito di ghiaccio. Aggiungere il top di coca cola. Infine, decorare con una fetta di limone e servire."
   },
   {
@@ -1041,7 +1111,8 @@
       37,
       18
     ],
-    "doses":"3,5 cl di Malibù, 7 cl di Cola",
+    "ingredients":"Malibù, Coca Cola",
+    "doses":"3,5 cl di Malibù,7 cl di Cola",
     "preparation":"Mettere nel bicchiere dei cubetti di ghiaccio e aggiungere in seguito il malibù. infine colmare il bicchiere con la Cola. Decorate con un fetta di lime."
   },
   {
@@ -1054,7 +1125,8 @@
       68,
       64
     ],
-    "doses":"50 ml di Whiskey, 20 ml di vermut rosso, 1 dash di angostura",
+    "ingredients": "Whisky, Vermouth Rosso",
+    "doses":"50 ml di Whiskey,20 ml di vermut rosso,1 dash di angostura",
     "preparation":"Il Manhattan si prepara mescolando (senza agitare) gli ingredienti all'interno del mixing glass, raffreddato precedentemente riempiendo di ghiaccio il bicchiere per 2/3. L'angostura ha un sapore molto marcato e nell'ultima codifica IBA (2020) è consigliata una sola spruzzata (dash). Si serve in una coppetta da cocktail (da Martini) filtrando con lo strainer, guarnito con una ciliegina al maraschino."
   },
   {
@@ -1068,7 +1140,8 @@
       63,
       3
     ],
-    "doses":"50 ml di Whiskey, 20 ml di vermut dry, 1 dash di angostura",
+    "ingredients": "Whisky, Vermouth Dry, Angostura",
+    "doses":"50 ml di Whiskey,20 ml di vermut dry,1 dash di angostura",
     "preparation":"Miscelare nel mixing glass. Servire nella coppetta da cocktail e decorare con buccia di limone."
   },
   {
@@ -1083,7 +1156,8 @@
       62,
       58
     ],
-    "doses":"4,5 cl di Tequila, 1,5 cl di Cointreau o Triple Sec, 1 cl di Succo di limone",
+    "ingredients": "Tequila, Cointreau o Triple Sec, Succo di limone",
+    "doses":"4.5 cl di Tequila,1.5 cl di Cointreau o Triple Sec,1 cl di Succo di limone",
     "preparation":" Preparare nello shaker versando la Tequila, il Triple Sec (Cointreau) ed il succo di limone. Brinare il bordo della coppetta da cocktails con sale fino e strofinare delicatamente il fondo del bicchiere con una fetta di limone. Versare il drink nel bicchiere dallo shaker e decorare con la fetta di limone appena utilizzata."
   },
   {
@@ -1098,7 +1172,8 @@
       56,
       29
     ],
-    "doses":"6 cl rum bianco, 1 cl maraschino, 6 cl succo d'ananas, 1 cl sciroppo di granatina]",
+    "ingredients":"Rum Bianco, Maraschino, Succo d'ananas, Granatina",
+    "doses":"6 cl rum bianco,1 cl maraschino,6 cl succo d'ananas,1 cl sciroppo di granatina",
     "preparation":"Versare tutti gli ingredienti nello shaker, servire in una coppetta da cocktail precedentemente raffreddata."
   },
   {
@@ -1109,7 +1184,8 @@
     "img":"https://www.digicocktails.com/images/cocktails/37.jpg",
     "codes":
     [83, 47 , 78, 107, 84, 111],
-    "doses":"4,5 cl di rum bianco, 2 cl di succo di lime, 6 foglie di menta fresca, 2 cucchiaini di zucchero di canna, Acqua minerale frizzante",
+    "ingredients": "Succo di lime, Rum Bianco, Soda Water, Menta, Zucchero di canna, Acqua frizzante",
+    "doses":"4.5 cl di rum bianco,2 cl di succo di lime,6 foglie di menta fresca,2 cucchiaini di zucchero di canna,Acqua minerale frizzante",
     "preparation": "Mettere in un tumbler alto zucchero, succo di lime, rum e menta. Amalgamare il tutto premendo delicatamente le foglie di menta, poi unire ghiaccio a cubetti e l'acqua frizzante. Decorare con un rametto di menta. Servire con una cannuccia."
   },
   {
@@ -1123,7 +1199,8 @@
       7,
       3
     ],
-    "doses":"6 cl di Whisky, 1,5 cl di Benedictine, 1 dash di Angostura",
+    "ingredients": "Whisky, Benedictine, Angostura",
+    "doses":"6 cl di Whisky,1.5 cl di Benedictine,1 dash di Angostura",
     "preparation":"Unite i 2 ingredienti principali nel mixing glass e aggiungete 3 gocce di Angostura. Mescolate per 20-30 secondi. Filtrate con ghiaccio in un bicchiere old fashioned. Decorate con una scorza di limone."
   },
   {
@@ -1137,7 +1214,8 @@
       64,
       27
     ],
-    "doses":"3 cl di Bitter Campari, 3 cl di Vermouth Rosso, 3 cl di Gin]",
+    "ingredients": "Bitter Campari, Vermouth Rosso, Gin",
+    "doses":"3 cl di Bitter Campari,3 cl di Vermouth Rosso,3 cl di Gin]",
     "preparation":"Versare tutti gli ingredienti dalla gradazione alcolica più alta alla più bassa direttamente nel bicchiere Old fashioned riempito di ghiaccio. Mescolare delicatamente. Decorare con metà fetta d'arancia."
   },
   {
@@ -1153,7 +1231,8 @@
       30,
       71
     ],
-    "doses":"3 cl di Cointreau, 3 cl di Baileys Irish Cream, 2 cl di Grand Marnier",
+    "ingredients": "Cointreau o Triple Sec, Baileys, Grand Marnier, Ghiaccio",
+    "doses":"3 cl di Cointreau,3 cl di Baileys Irish Cream,2 cl di Grand Marnier",
     "preparation":"Si versano gli ingredienti direttamente in un bicchiere tipo old fashioned (oppure in uno shot glass, uno di quei bicchieri che in Italia si usano per la grappa). Si guarnisce con una ciliegina al maraschino."
   },
   {
@@ -1167,7 +1246,8 @@
       5,
       27
     ],
-    "doses":"3,5 cl di gin, 2 cl di brandy all'albicocca (apricot brandy), 1,5 cl di succo d'arancia",
+    "ingredients": "Succo d'arancia, Apricot Brandy, Gin",
+    "doses":"3.5 cl di gin,2 cl di brandy all'albicocca (apricot brandy),1.5 cl di succo d'arancia",
     "preparation":"Riempire una coppetta da cocktail con del ghiaccio per raffreddarla. Riempire di ghiaccio uno shaker, togliervi l'acqua in eccesso, poi aggiungervi 3,5 cl di gin, 2 cl di brandy all'albicocca e 1,5 cl di succo d'arancia fresco ed agitare bene. Filtrare il contenuto dello shaker nella coppetta da cocktail svuotata del ghiaccio. Servire senza cannuccia."
   },
   {
@@ -1182,7 +1262,8 @@
       56,
       71
     ],
-    "doses":"6 cl di Rum bianco, 9 cl di succo di ananas, 3 cl di latte di cocco",
+    "ingredients": "Rum Bianco, Latte di cocco, Succo d'ananas, Ghiaccio",
+    "doses":"6 cl di Rum bianco,9 cl di succo di ananas,3 cl di latte di cocco",
     "preparation":"Si prepara nel blender con ghiaccio. Servire nel bicchiere \"goblet\". Decorare con trancio d'ananas e ciliegina rossa."
   },
   {
@@ -1201,7 +1282,8 @@
       3,
       71
     ],
-    "doses":"4 cl di rum scuro, 3,5 cl di succo d'arancia, 3,5 cl di succo d'ananas, 2 cl di succo di limone, 1 cl di sciroppo di granatina, 1 cl di sciroppo di zucchero, 3-4 gocce di bitter Angostura",
+    "ingredients": "Rum Scuro, Granatina, Succo di limone, Succo d'arancia, Succo d'ananas, sciroppo di zucchero, Angostura, Ghiaccio",
+    "doses":"4 cl di rum scuro,3.5 cl di succo d'arancia,3.5 cl di succo d'ananas,2 cl di succo di limone,1 cl di sciroppo di granatina,1 cl di sciroppo di zucchero,3-4 gocce di bitter Angostura",
     "preparation":"Versare gli ingredienti in un tumbler basso con ghiaccio, decorare con una scorza d'arancia."
   },
   {
@@ -1215,7 +1297,8 @@
       43,
       80
     ],
-    "doses":"1.5 cl di brandy, 4.5 cl di vino Porto, 1 cl di tuorlo d'uovo]",
+    "ingredients": "Brandy, Porto, Uovo",
+    "doses":"1.5 cl di brandy,4.5 cl di vino Porto,1 cl di tuorlo d'uovo",
     "preparation":"Si prepara mettendo nello shaker tutti gli ingredienti con aggiunta di ghiaccio. Va servito nella coppetta da cocktail."
   },
   {
@@ -1229,7 +1312,8 @@
       68,
       3
     ],
-    "doses":"4,5 cl di Whisky, 2,5 cl di Vermouth rosso, 1-2 gocce di angostura bitter",
+    "ingredients": "Vermouth Rosso, Whisky, Angostura",
+    "doses":"4.5 cl di Whisky,2.5 cl di Vermouth rosso,1-2 gocce di angostura bitter",
     "preparation":"Versare tutti gli ingredienti principali nel mixing glass con ghiaccio, aggiungere 2 gocce di angostura per ciascun cocktail. Mescolare bene e filtrare in coppetta ben fredda. Decorare infine con ciliegina al maraschino."
   },
   {
@@ -1243,7 +1327,8 @@
       63,
       53
     ],
-    "doses":"6 cl di vermouth dry, 1.5 cl di Kirsch, Gocce di sciroppo di fragola",
+    "ingredients": "Kirsch, Vermouth Dry, Sciroppo di fragola",
+    "doses":"6 cl di vermouth dry,1.5 cl di Kirsch,Gocce di sciroppo di fragola",
     "preparation":"Shakerare con ghiaccio e servire in una coppetta da cocktail. Si guarnisce con una ciliegia al maraschino."
   },
   {
@@ -1257,7 +1342,8 @@
       44,
       13
     ],
-    "doses":"5 cl di Fragola frullata, 10 cl di prosecco",
+    "ingredients": "Fragola frullata,Prosecco o Champagne",
+    "doses":"5 cl di Fragola frullata,10 cl di prosecco",
     "preparation":"Frullare le fragole dopo averle lavate ed asciugate. Filtrarle con un colino qualora i semi diano fastidio. Conservare in frigorifero fino al momento di servire. Versare il frullato in una coppetta flute ed aggiungere il prosecco (o Champagne) ben freddo. Decorare con una fragola."
   },
   {
@@ -1271,7 +1357,8 @@
       68,
       71
     ],
-    "doses":"4,5 cl di whisky, 2,5 cl di Drambuie (liquore al miele)",
+    "ingredients": "Drambuie, Whisky, Ghiaccio",
+    "doses":"4.5 cl di whisky,2.5 cl di Drambuie (liquore al miele)",
     "preparation":"Porre gli ingredienti direttamente in un bicchiere di tipo Old fashioned con ghiaccio ed aggiungere una scorza di limone arrotolata (lemon twist in inglese)."
   },
   {
@@ -1284,7 +1371,8 @@
       66,
       57
     ],
-    "doses":"5 cl di vodka, 10 cl di succo d'arancia",
+    "ingredients": "Vodka, Succo d'arancia",
+    "doses":"5 cl di vodka,10 cl di succo d'arancia",
     "preparation":"Mescolare la vodka e il succo d'arancia direttamente nel bicchiere e servire con una fetta d'arancia."
   },
   {
@@ -1299,7 +1387,8 @@
       62,
       16
     ],
-    "doses":"5 cl di cognac (o brandy), 2 cl di Triple sec (o Cointreau), 2 cl di succo di limone fresco",
+    "ingredients": "Succo di limone, Cointreau o Triple Sec, Cognac",
+    "doses":"5 cl di cognac (o brandy),2 cl di Triple sec (o Cointreau),2 cl di succo di limone fresco",
     "preparation":"Raffreddate lo shaker,poi scolate l'acqua in eccesso. Versatevi il cognac, il cointreau e il succo di limone. Shakerate per alcuni secondi e versate nelle doppie coppette. Se lo preferite può essere servito anche \"on the rocks\" con il ghiaccio rimasto nello shaker. In questo caso si usa l'old fashioned."
   },
   {
@@ -1318,7 +1407,8 @@
       83,
       3
     ],
-    "doses":"3 cl di gin, 1,5 cl di Heering Cherry Liqueur, 0,75 cl di triple sec, 0,75 cl di DOM Benedictine, 1 cl di granatina, 12 cl di succo d'ananas, 1,5 cl di succo di lime fresco, 1 spruzzo di angostura",
+    "ingredients": "Gin, Heering Cherry Liqueur, Triple sec, Benedictine, Granatina, Succo d'ananas, Succo di lime fresco, Angostura",
+    "doses":"3 cl di gin,1.5 cl di Heering Cherry Liqueur,0.75 cl di triple sec,0.75 cl di DOM Benedictine,1 cl di granatina,12 cl di succo d'ananas,1.5 cl di succo di lime fresco,1 spruzzo di angostura",
     "preparation":"Nel bicchiere di preparazione aggiungere 3 cl di gin, 1,5 cl di Heering Cherry Liqueur, 0,75 cl di triple sec, 0,75 cl di benedictine, 1 cl di granatina, 1,5 cl di succo di lime, 12 cl di succo d'ananas, uno spruzzo di angostura. Versare il tutto in uno shaker pieno di ghiaccio ed agitare. Filtrare in un bicchiere highball precedentemente riempito di ghiaccio. Guarnire con una fettina d'ananas e con una ciliegia al maraschino."
   },
   {
@@ -1332,7 +1422,8 @@
       4,
       78
     ],
-    "doses":"9 cl di Prosecco, 6 cl di Aperol, q.b. di Soda/seltz.",
+    "ingredients": "Prosecco, Aperol, Soda Water",
+    "doses":"9 cl di Prosecco,6 cl di Aperol,q.b. di Soda/seltz.",
     "preparation":"Per preparare lo spritz si versa in un bicchiere old-fashioned contenente del ghiaccio, in ordine: aperol, prosecco e infine soda, guarnendo quindi con mezza fetta d'arancia.[1] Dal 2015, nel retroetichetta della bottiglia dell'Aperol, viene indicato il bicchiere da vino con stelo ideale per la preparazione dell'Aperol Spritz."
   },
   {
@@ -1347,7 +1438,8 @@
       53,
       78
     ],
-    "doses":"3 cl di Gin, 3 cl di Vino bianco secco , 3 cl di Sciroppo di fragola, 6 cl di Soda Water",
+    "ingredients": "Gin, Vino bianco secco, Sciroppo di fragola, Soda Water",
+    "doses":"3 cl di Gin,3 cl di Vino bianco secco,3 cl di Sciroppo di fragola,6 cl di Soda Water",
     "preparation":"Per prima cosa mettete nello shaker tutti gli ingredienti (tranne la soda water), agitate con un po' di ghiaccio e successivamente aggiungete la soda water. Infine decorate con un rametto di menta e una fragola."
   },
   {
@@ -1361,7 +1453,8 @@
       29,
       57
     ],
-    "doses":"4,5 cl. di tequila, 9 cl. di succo d'arancia, 1,5 cl. di granatina",
+    "ingredients": "Tequila, Sciroppo di granatina, Succo d'arancia",
+    "doses":"4.5 cl di tequila,9 cl di succo d'arancia,1.5 cl di granatina",
     "preparation":"Versare la tequila ed il succo d'arancia in un bicchiere hurricane riempito di ghiaccio in cubetti. Mescolare con uno stirrer, quindi incorporare delicatamente lo sciroppo di granatina secondo il metodo build, in modo che la granatina vada a depositarsi sul fondo donando al drink l'effetto sunrise (alba). Guarnire con una fetta d'arancia e una ciliegina candita."
   },
   {
@@ -1378,7 +1471,8 @@
       59,
       18
     ],
-    "doses":"1,5 cl di Rum Bianco, 1,5 cl di Gin, 1,5 cl di Vodka, 1,5 cl di Tequila, 6 cl di sweet and sour, top di coca cola (circa 3 cl)",
+    "ingredients": "Rum Bianco, Gin, Vodka, Tequila, Sweet and sour, Cola",
+    "doses":"1.5 cl di Rum Bianco,1.5 cl di Gin,1.5 cl di Vodka,1.5 cl di Tequila,6 cl di sweet and sour,top di coca cola (circa 3 cl)",
     "preparation":"Mettete nei tumbler medi una quantità abbondante di ghiaccio.Successivamente miscelate con lo stirrer rum,gin,vodka, tequila e succo di limone zuccherato. Colmate ciascun bicchiere con Cola e mescolate nuovamente. Decorate infine i tumbler con una fettina di lime e servite con stirrer e cannucce."
   },
   {
@@ -1396,7 +1490,8 @@
       40,
       78
     ],
-    "doses":"1,5 cl vodka, 1,5 cl gin, 1,5 cl rum bianco , 1,5 cl tequila, 1,5 cl Midori, 6 cl sweet e sour, top di coca cola (circa 3 cl)",
+    "ingredients": "Vodka, Gin, Rum Bianco, Tequila, Sweet and sour, Midori, Soda water",
+    "doses":"1.5 cl vodka,1.5 cl gin,1.5 cl rum bianco,1.5 cl tequila,1.5 cl Midori,6 cl sweet e sour,top di coca cola (circa 3 cl)",
     "preparation":"Unite tutti gli ingredienti nello shaker (tranne la soda) ed agitate con ghiaccio, versare su ghiaccio fresco in un tumbler medio. Aggiungete della soda qb. Decorare infine con una fetta di lime o limone."
   },
   {
@@ -1409,7 +1504,8 @@
       63,
       66
     ],
-    "doses":"5,5 cl Vodka, 1,5 cl Vermut Dry",
+    "ingredients": "Vermouth Dry, Vodka",
+    "doses":"5.5 cl Vodka,1.5 cl Vermut Dry",
     "preparation":"Raffreddate il mixing glass, poi scolate l'acqua in eccesso. Versateci il vermouth e la vodka e miscelate velocemente. Infine servite nelle coppette cocktail, filtrando con lo strainer e guarnite ciascuna con una scorza di limone."
   },
   {
@@ -1424,7 +1520,8 @@
       77,
       71
     ],
-    "doses":"4,5 cl di Bourbon Whiskey, 3 cl di succo di limone, 1,5 cl di sciroppo zucchero",
+    "ingredients": "Whisky, Succo di limone, Sciroppo di zucchero, Ghiaccio",
+    "doses":"4.5 cl di Bourbon Whiskey,3 cl di succo di limone,1.5 cl di sciroppo zucchero",
     "preparation":"Spremere 3cl (1 oz) di succo di limone poi aggiungere 1.5 cl (0,5 oz) di sciroppo di zucchero. Aggiungere 4,5 cl (1,5 oz) di Bourbon Whiskey. Poi procedere con l'aggiunta di un albume d'uovo (opzionale). Mettere la soluzione in uno shaker ed agitare in modo deciso. Riempire lo shaker con del ghiaccio e poi agitare di nuovo il tutto. Versare la soluzione dello shaker in un bicchiere di tipo old fashioned o cobbler precedentemente riempito fino all'orlo con cubetti di ghiaccio. Guarnire con mezza fettina d'arancia sul bicchiere e una ciliegia al maraschino. servire con cannuccia"
   },
   {
@@ -1439,7 +1536,8 @@
       62,
       58
     ],
-    "doses":"4 cl di gin, 3 cl di triple sec, 2 cl di succo di limone fresco",
+    "ingredients": "Gin, Cointreau o Triple Sec, Succo di limone",
+    "doses":"4 cl di gin,3 cl di triple sec,2 cl di succo di limone fresco",
     "preparation":"Prendere una coppetta da cocktail e riempirla di ghiaccio per raffreddarla. In uno shaker riempito di ghiaccio versare 4 cl di gin, 3 cl di triple sec e 2 cl di succo di limone fresco. Agitare bene e poi filtrare nella coppetta da cocktail svuotata del ghiaccio. Servire senza cannuccia. Nel ricettario IBA del 1990 la ricetta prevedeva 5/10 di gin, 3/10 cointreau e 2/10 di succo di limone fresco."
   },
   {
@@ -1455,7 +1553,8 @@
       76,
       71
     ],
-    "doses":"5,0 cl di vodka, 2,0 cl di liquore al caffè Kahlua, Crema di latte o panna liquida",
+    "ingredients": "Vodka, Liquore al caffe Kahlúa, Crema di latte o panna liquida, Ghiaccio",
+    "doses":"5 cl di vodka,2 cl di liquore al caffè Kahlua,Crema di latte o panna liquida",
     "preparation":"È preferibile usare la Kahlua o in mancanza di essa il Borghetti (suo corrispettivo italiano) che tuttavia è meno indicato in quanto più amaro. Si versa vodka e liquore nello shaker e si agita bene per 10 secondi, dopodiché si versa senza aspettare nel bicchiere (tipo Old Fashioned) con del ghiaccio. Successivamente si versa la panna liquida dal dorso di un cucchiaio direttamente sul bicchiere. Non va aggiunta nessuna decorazione."
   },
   {
@@ -1473,7 +1572,8 @@
       77,
       83
     ],
-    "doses":"6 cl di Rum Bianco , 3 cl di Vermouth Dry, 1,5 cl di Cherry Brandy, 1/2 Albume d'uovo, 0,25 cl di granatina, 0,10 cl di sciroppo di zucchero , 0,5 cl di ",
+    "ingredients": "Rum Bianco, Vermouth Dry, Cherry Brandy, Uovo, Granatina, Sciroppo di zucchero, Succo di lime",
+    "doses":"6 cl di Rum Bianco,3 cl di Vermouth Dry,1.5 cl di Cherry Brandy,1/2 Albume d'uovo,0.25 cl di granatina,0.10 cl di sciroppo di zucchero,0.5 cl di succo di lime",
     "preparation":"Shakerate il rum chiaro, il vermouth dry, il cherry brandy insieme a mezzo albume di uovo, 0,25 cl di granatina, 0,10 cl di sciroppo di zucchero e 0,5 cl di succo di lime. Dopo aver shakerato tutti gli ingredienti senza ghiaccio per emulsionare l'albume. Shakerate nuovamente aggiungendo del ghiaccio. Filtrate due volte il cocktail e versatelo in un bicchiere da cocktail. Decorate con una ciliegia sciroppata."
   },
   {
@@ -1489,7 +1589,8 @@
       106,
       83
     ],
-    "doses":"4 cl (8 parti) di Rum bianco, 2 cl di Rum scuro, 1,5 cl di Orange curaçao, 1,5 cl di Sciroppo di orzata, 1 cl di Succo di lime fresco",
+    "ingredients": "Rum bianco, Rum Scuro, Orange Curaçao, Sciroppo di orzata, Succo di lime fresco",
+    "doses":"4 cl (8 parti) di Rum bianco,2 cl di Rum scuro,1.5 cl di Orange curaçao,1.5 cl di Sciroppo di orzata,1 cl di Succo di lime fresco",
     "preparation":"Tutti gli ingredienti tranne il rum scuro vengono agitati nello shaker con il ghiaccio. Si versa nel bicchiere, vi si aggiunge il rum scuro facendolo stratificare in superficie. Viene servito on the rocks, cioè con cubetti di ghiaccio, in un bicchiere Highball. Guarnizione ombrellino in carta"
   },
   {
@@ -1503,7 +1604,8 @@
       97,
       86
     ],
-    "doses":"4,0 cl di vodka, 12,0 cl di succo di mirtilli rosso, 3,0 cl di succo di pompelmo",
+    "ingredients": "Vodka, Succo di mirtilli rosso, Succo di pompelmo",
+    "doses":"4 cl di vodka,12 cl di succo di mirtilli rosso,3 cl di succo di pompelmo",
     "preparation":"Si versano gli ingredienti in un bicchiere tipo highball, riempito con ghiaccio. Si guarnisce, infine, con una fettina di lime e si serve con due cannucce."
   },
   {
@@ -1518,7 +1620,8 @@
       57,
       95
     ],
-    "doses":"4 cl. di vodka, 2 cl. di peach schnapps (liquore di pesche), 4 cl. di succo d'arancia, 4 cl. di succo di cranberry]",
+    "ingredients": "Vodka, Liquore alla Pesca, Succo d'arancia, Succo di cranberry",
+    "doses":"4 cl di vodka,2 cl di peach schnapps (liquore di pesche),4 cl di succo d'arancia,4 cl di succo di cranberry",
     "preparation":"Shakerare la vodka, il peach schnapps e il succo di arancia in uno shaker freddo, quindi versare il contenuto in un tumbler alto precedentemente riempito di ghiaccio. Versare senza mescolare il succo di cranberry in modo che il rosso del succo, che per densità tende a scendere, screzi il cocktail. Guarnire con una cannuccia, ed eventualmente con arancia, e servire."
   },
   {
@@ -1534,7 +1637,8 @@
       83,
       44
     ],
-    "doses":"4,5 cl di rum ambrato, 1,5 cl di Galliano, 6 cl di succo d'ananas, Gocce di succo di lime fresco, Top di Prosecco",
+    "ingredients": "Rum ambrato, Galliano, succo d'ananas, succo di lime fresco, Prosecco",
+    "doses":"4.5 cl di rum ambrato,1.5 cl di Galliano,6 cl di succo d'ananas,Gocce di succo di lime fresco,Top di Prosecco",
     "preparation":"Raffreddare la coppa Margarita con del ghiaccio, nel frattempo riempire di ghiaccio lo shaker e versare al suo interno il rum, il Galliano, il succo d'ananas e il succo di lime. Shakerare il tutto, quindi versare nel bicchiere dopo aver tolto il ghiaccio. Colmare con il Prosecco."
   },
   {
@@ -1550,7 +1654,8 @@
       58,
       71
     ],
-    "doses":"3 cl di Scotch whisky, 1 cl di cherry brandy, 1 cl di Vermouth rosso, 1 cl di Succo di limone",
+    "ingredients": "Scotch whisky, Cherry brandy, Vermouth rosso, Succo di limone, Ghiaccio",
+    "doses":"3 cl di Scotch whisky,1 cl di cherry brandy,1 cl di Vermouth rosso,1 cl di Succo di limone",
     "preparation":"Viene preparato nello shaker agitando tutti gli ingredienti con del ghiaccio. La miscela va servita in un bicchiere Old fashioned colmo di ghiaccio in cubetti e con una fetta di limone."
   },
   {
@@ -1564,7 +1669,8 @@
       25,
       78
     ],
-    "doses":"2/5 di Punt e Mes. 1/5 di Branca Menta, 2/5 di soda water",
+    "ingredients": "Punt e Mes, Branca Menta, Soda water",
+    "doses":"2/5 di Punt e Mes,1/5 di Branca Menta,2/5 di soda water",
     "preparation":"Versare gli ingredienti in un bicchiere colmo di ghiaccio, mescolare ed aggiungere una fetta d'arancia."
   },
   {
@@ -1579,7 +1685,8 @@
       8,
       71
     ],
-    "doses":"3 cl di Spumante brut, 3 cl di Vermouth rosso (Carpano originariamente), 3 cl di Bitter Campari",
+    "ingredients": "Spumante brut, Vermouth rosso, Bitter Campari, Ghiaccio",
+    "doses":"3 cl di Spumante brut,3 cl di Vermouth rosso (Carpano originariamente),3 cl di Bitter Campari",
     "preparation":"Mettere gli ingredienti all'interno del bicchiere Old Fashioned colmo di ghiaccio. Mescolare bene con cucchiaio da bar e decorare con una fetta d'arancia."
   },
   {
@@ -1594,7 +1701,8 @@
       6,
       21
     ],
-    "doses":"2,5/10 di Sambuca, 2,5/10 di Kahlúa, 2,5/10 di Baileys, 2,5/10 di Curaçao Blu",
+    "ingredients": "Sambuca, Kahlúa, Baileys, Curaçao Blu",
+    "doses":"2.5/10 di Sambuca,2.5/10 di Kahlúa,2.5/10 di Baileys,2.5/10 di Curaçao Blu",
     "preparation":"Per preparare il cocktail servono inoltre tre bicchieri: uno da cocktail poco profondo e con apertura piuttosto ampia e due piccoli da shot. Si versa la Sambuca e la Kahlúa in parti uguali nel bicchiere più grande cercando di bagnare anche i bordi interni del bicchiere con la Sambuca. Negli altri due bicchierini si versano i restanti ingredienti: in uno il Baileys e nell'altro il Blue Curaçao. Prima di consumare il cocktail occorre \"accenderlo\" ovvero servire flambé il bicchiere più grande ed iniziare a bere, con una cannuccia, il contenuto mentre, appena iniziato a bere, il barista esperto versa i due bicchierini in quello più grande spegnendo il cocktail. Secondo la tradizione il cocktail va bevuto tutto in una volta."
   },
   {
@@ -1608,7 +1716,8 @@
       64,
       48
     ],
-    "doses":"2 cl di Amaro 18 Isolabella, 2 cl di Vermouth rosso, 2 cl di Rum Scuro",
+    "ingredients": "Amaro 18 Isolabella, Vermouth rosso, Rum Scuro",
+    "doses":"2 cl di Amaro 18 Isolabella,2 cl di Vermouth rosso,2 cl di Rum Scuro",
     "preparation":"Si prepara nel mixing glass con ghiaccio. Si serve in una coppetta da cocktail decorando con buccia d'arancia."
   }
 ]

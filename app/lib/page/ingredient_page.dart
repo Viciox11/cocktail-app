@@ -65,8 +65,8 @@ class _IngredientPageState extends State<IngredientPage> {
       body: Column(
         children: <Widget>[
           Expanded(
-            child: ListView(
-              //crossAxisCount: 2,
+            child: GridView.count(
+              crossAxisCount: 2,
               shrinkWrap: true,
               children: ingredients.map((ingredient) {
                 final isSelected = selectedIngredients.contains(ingredient);
