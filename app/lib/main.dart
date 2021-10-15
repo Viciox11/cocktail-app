@@ -33,6 +33,10 @@ class MyApp extends StatelessWidget {
           theme: ThemeData(
             scaffoldBackgroundColor: Colors.white,
             primaryColor: Color.fromRGBO(205, 209, 111, 1),
+              appBarTheme: AppBarTheme(
+                  iconTheme: IconThemeData(color: Colors.black),
+                  titleTextStyle: TextStyle(color: Colors.black, fontSize: 18)
+              )
           ),
           home: MainPage(),
         ),
@@ -141,7 +145,8 @@ class _MainPageState extends State<MainPage> {
                   isMultiSelection: true,
                   ingredients: List.of(this.ingredients),
                   flag: 1, //FLAG 1: RANDOM DRINK WITH INGREDIENTS
-                )),
+                )
+        ),
       );
 
       if (ingredients == null) return;

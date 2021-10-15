@@ -126,6 +126,7 @@ class DrinkDetailPage extends StatelessWidget {
                   height: null,
                   child:
                   ListView.builder(
+                    physics: NeverScrollableScrollPhysics(),
                     shrinkWrap: true,
                     itemCount: doses.length,
                     itemBuilder: (context, index) {

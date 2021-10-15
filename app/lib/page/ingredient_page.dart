@@ -88,6 +88,7 @@ class _IngredientPageState extends State<IngredientPage> {
   Widget buildAppBar() {
     return AppBar(
       title: Text('Seleziona Ingredienti'),
+      backgroundColor: Color.fromRGBO(205, 209, 111, 1),
       bottom: PreferredSize(
         preferredSize: Size.fromHeight(60),
         child: SearchWidget(

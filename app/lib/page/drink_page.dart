@@ -113,6 +113,7 @@ class _DrinkPageState extends State<DrinkPage> {
   Widget buildAppBar() {
     return AppBar(
       title: Text('Seleziona Drink'),
+      backgroundColor: Color.fromRGBO(205, 209, 111, 1),
       bottom: PreferredSize(
         preferredSize: Size.fromHeight(60),
         child: SearchWidget(

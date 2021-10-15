@@ -72,10 +72,8 @@ class _DrinkListState extends State<DrinkListPage> {
         ),
         body: Center(
           child: res != null
-              ? Column(children: [
-                  //ingredientDescription(widget.selectedIngredients),
-                  ListView.builder(
-                    shrinkWrap: true,
+              ? //ingredientDescription(widget.selectedIngredients),
+                ListView.builder(
                     itemCount: drinkToShow.length,
                     itemBuilder: (context, index) {
                       var drink = drinkToShow[index];
@@ -116,8 +114,6 @@ class _DrinkListState extends State<DrinkListPage> {
                       );
                     },
                   )
-                ])
-              /**/
               : CircularProgressIndicator(backgroundColor: Colors.white),
         ),
       ),
