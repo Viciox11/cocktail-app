@@ -47,7 +47,7 @@ class IngredientListTileWidget extends StatelessWidget {
                       trailing: isSelected
                           ? Icon(Icons.check, color: style.color)
                           : Icon(Icons.add),
-                    )
+                    ),
                   ],
                 ),
               )

@@ -64,6 +64,8 @@ class _IngredientPageState extends State<IngredientPage> {
       appBar: buildAppBar(),
       body: Column(
         children: <Widget>[
+          const SizedBox(height: 10),
+          buildRowScrollableIngredientList(),
           Expanded(
             child: GridView.count(
               crossAxisCount: 2,
@@ -100,10 +102,47 @@ class _IngredientPageState extends State<IngredientPage> {
     );
   }
 
+  Widget buildRowScrollableIngredientList() {
+    if (selectedIngredients.length > 0) {
+      return new Padding(
+          padding: EdgeInsets.all(8),
+          child: Container(
+              height: 50.0,
+              child: new ListView(
+                scrollDirection: Axis.horizontal,
+                children:
+                    new List.generate(selectedIngredients.length, (int index) {
+                  return ConstrainedBox(
+                    constraints: BoxConstraints(
+                      minHeight: 50,
+                    ),
+                    child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceAround,
+                        children: [
+                          new Text(selectedIngredients.elementAt(index).name),
+                          IconButton(
+                              icon: Icon(Icons.delete),
+                              onPressed: () => {
+                                    selectIngredient(
+                                        selectedIngredients.elementAt(index))
+                                  })
+                        ]),
+                  );
+                }),
+              )
+          )
+      );
+    } else {
+      return SizedBox(height: 1);
+    }
+  }
+
   Widget buildSelectButton(BuildContext context) {
-    final label = widget.isMultiSelection
-        ? 'Seleziona ${selectedIngredients.length} Ingredienti'
-        : 'Continue';
+    final label = selectedIngredients.length == 0
+        ? 'Seleziona Ingredienti'
+        : (selectedIngredients.length == 1
+        ? 'Continua con ${selectedIngredients.length} ingrediente'
+        : 'Continua con ${selectedIngredients.length} ingredienti');
 
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 32, vertical: 12),
