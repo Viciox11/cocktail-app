@@ -1719,5 +1719,33 @@
     "ingredients": "Amaro 18 Isolabella, Vermouth rosso, Rum Scuro",
     "doses":"2 cl di Amaro 18 Isolabella,2 cl di Vermouth rosso,2 cl di Rum Scuro",
     "preparation":"Si prepara nel mixing glass con ghiaccio. Si serve in una coppetta da cocktail decorando con buccia d'arancia."
+  },
+  {
+    "name":"BUCK'S FIZZ O MIMOSA",
+	"category":"Pre Dinner",
+    "code":"121",
+    "story":"Il Mimosa è una variante dei cocktail Bellini, Rossini e Tintoretto. Viene preparato con spremuta d'arancia e prosecco, ha un sapore fresco e rinfrescante. Il cocktail è composto da 1/3 di spremuta d'arancia e 2/3 di prosecco freddo. Il periodo ideale per gustarlo sono i mesi invernali, quando appunto maturano i frutti. È stato creato da Mr McGarry, barman al Buck's Club di Londra nel 1921.",
+	"img":"https://www.digicocktails.com/images/cocktails/10.jpg",
+    "codes":[
+      57,
+      44
+    ],
+    "ingredients": "Succo d'arancia, Prosecco",
+	"doses": "4/10 Succo d'arancia,6/10 Prosecco",
+	"preparation": "Spremere un'arancia e filtrarne il succo attraverso un colino in un bicchiere da cocktail di tipo flute ben freddo. Aggiungere il prosecco. Servire direttamente nel bicchiere utilizzato per il succo d'arancia.",
+  },
+  {
+    "name":"BUCK'S FIZZ O MIMOSA (Champagne)",
+	"category":"Pre Dinner",
+    "code":"122",
+    "story":"Il Mimosa è una variante dei cocktail Bellini, Rossini e Tintoretto. Viene preparato con spremuta d'arancia e prosecco, ha un sapore fresco e rinfrescante. Il cocktail è composto da 1/3 di spremuta d'arancia e 2/3 di prosecco freddo. Il periodo ideale per gustarlo sono i mesi invernali, quando appunto maturano i frutti. È stato creato da Mr McGarry, barman al Buck's Club di Londra nel 1921.",
+	"img":"https://www.digicocktails.com/images/cocktails/10.jpg",
+    "codes":[
+      57,
+      13
+    ],
+    "ingredients": "Succo d'arancia, Champagne",
+	"doses": "4/10 Succo d'arancia,6/10 Champagne",
+	"preparation": "Spremere un'arancia e filtrarne il succo attraverso un colino in un bicchiere da cocktail di tipo flute ben freddo. Aggiungere lo Champagne. Servire direttamente nel bicchiere utilizzato per il succo d'arancia.",
   }
 ]
