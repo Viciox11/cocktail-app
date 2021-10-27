@@ -1747,5 +1747,18 @@
     "ingredients": "Succo d'arancia, Champagne",
 	"doses": "4/10 Succo d'arancia,6/10 Champagne",
 	"preparation": "Spremere un'arancia e filtrarne il succo attraverso un colino in un bicchiere da cocktail di tipo flute ben freddo. Aggiungere lo Champagne. Servire direttamente nel bicchiere utilizzato per il succo d'arancia.",
-  }
+  },
+{
+    "name":"DAIQUIRI",
+	"category":"After Dinner",
+	"code":"123",
+    "story":"Il Daiquiri o Daiquirì è un cocktail di origini caraibiche a base di rum, succo di lime e zucchero di canna sciolto (sciroppo di zucchero). Può essere servito in molti modi e arricchito con succhi di frutta. Famosi sono il Daiquiri alla fragola e alla pesca.",
+	"img":"https://www.digicocktails.com/images/cocktails/16.jpg",
+    "codes":[
+      47
+        ],
+	"ingredients": "Rum Bianco, Succo di lime, Zucchero",
+	"doses": "6 cl di rum bianco,2 cl di succo di lime fresco,2 cucchiai da bar di zucchero finissimo",
+	"preparation": "Mettere nello shaker tutti gli ingredienti, aggiungere il ghiaccio, mischiare bene per amalgamare lo zucchero e servire in coppetta da cocktail attraverso uno strainer.",
+  }, 
 ]
